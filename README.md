@@ -11,8 +11,10 @@
 ## GitHub Stats
 ![Nainsi Verma's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Vermanainsi24&show_icons=true&hide_title=true&hide=prs&count_private=true&theme=dark)
 
+
 ## Contributions Over the Year
 ![Nainsi Verma's Contribution Graph](https://github-readme-streak-stats.herokuapp.com/?user=Vermanainsi24&theme=dark)
+
 
 ---
 
