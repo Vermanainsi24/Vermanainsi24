@@ -41,5 +41,6 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vermanainsi24&theme=tokyonight" alt="vermanainsi24" /></p>
 
-<p><img src="https://github.com/vermanainsi24/vermanainsi24/blob/main/github-contribution-grid-snake.svg" alt="Snake Animation" /></p>
+<p><img src="https://raw.githubusercontent.com/vermanainsi24/vermanainsi24/output/github-contribution-grid-snake.svg" alt="Snake Animation" /></p>
+
 
