@@ -1,3 +1,4 @@
+
 <h1 align="center">Hi 👋, I'm Nainsi Verma</h1>
 <h3 align="center">A passionate Web Developer.</h3>
 
@@ -31,9 +32,14 @@
 <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/> </a>
 </p>
 
-<h3 align="left">GitHub Stats:</h3>
+<h3 align="left">GitHub Stats & Animations:</h3>
+<p><img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=vermanainsi24&theme=react-dark" alt="GitHub Activity Graph"/></p>
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vermanainsi24&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="vermanainsi24" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vermanainsi24&show_icons=true&locale=en&theme=tokyonight" alt="vermanainsi24" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vermanainsi24&theme=tokyonight" alt="vermanainsi24" /></p>
+
+<p><img src="https://github.com/vermanainsi24/vermanainsi24/blob/output/github-contribution-grid-snake.svg" alt="Snake Animation" /></p>
+
