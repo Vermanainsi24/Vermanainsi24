@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vermanainsi24&label=Profile%20views&color=0e75b6&style=flat" alt="vermanainsi24" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vermanainsi24&theme=darkhub" alt="vermanainsi24" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Vermanainsi24&theme=darkhub" alt="vermanainsi24" /></a> </p>
 
 - 👨‍💻 All of my projects are available at [Portfolio](https://vermanainsi24.github.io/Nainsi_Portfolio/)
 - 📫 How to reach me: **nainsiverma2528@gmail.com**
